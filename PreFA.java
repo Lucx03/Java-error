@@ -1,3 +1,5 @@
+//jangan lupa tukar depandenci
+
 package com.mycompany.prefa;
 import java.awt.*;
 import javax.swing.*;
